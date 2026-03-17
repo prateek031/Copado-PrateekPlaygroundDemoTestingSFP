@@ -10,11 +10,6 @@
         <field>Salesforce_Test__c.Profile_Test__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Salesforce_Test__c.Testing__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Role Level Access</label>
     <objectPermissions>
